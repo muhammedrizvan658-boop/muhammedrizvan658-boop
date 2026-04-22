@@ -133,6 +133,15 @@ Tamil        ███████
   <a href="https://www.linkedin.com/in/muhammed-rizvan-52a5a5318">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
   </a>
+  <a href="https://github.com/muhammedrizvan658-boop">
+    <img src="https://skillicons.dev/icons?i=github" height="60"/>
+  </a>
+  <a href="https://dribbble.com/muhammed-rizvan">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
+  </a>
+  <a href="https://www.instagram.com/_rizv_an._">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
+  </a>
 </p>
 
 ---
@@ -140,12 +149,12 @@ Tamil        ███████
 # 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedrizvan658-boop&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedrizvan658-boop&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrizvan658-boop&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
